@@ -1,6 +1,7 @@
 import java.util.Random;
 
 public class FiveExemple {
+    // Эта задача не доделана, не провяряй//
     public static void main(String[] args) {
         int [] array1 = new int [5];
         int [] array2 = new int [5];
